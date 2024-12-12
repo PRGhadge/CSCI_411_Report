@@ -1,0 +1,70 @@
+Test Case 1
+Input:
+3 10 0.1
+Funny Pets Gaming
+0.3 0.5 0.7
+
+Output:
+Funny               0.303415
+Pets                0.282902
+Gaming              0.413683
+
+------------------------------
+
+Test Case 2
+Input:
+5 20 0.2
+News Music Sports Comedy Education
+0.4 0.6 0.3 0.5 0.2
+
+Output:
+News                0.19928
+Music               0.393354
+Sports              0.109367
+Comedy              0.224688
+Education           0.073311
+
+------------------------------
+
+Test Case 3
+Input:
+4 15 0.15
+Action Romance Thriller Documentary
+0.25 0.5 0.4 0.35
+
+Output:
+Action              0.17349
+Romance             0.35376
+Thriller            0.222209
+Documentary         0.25054
+
+------------------------------
+
+Test Case 4
+Input:
+6 25 0.1
+Food Travel Tech Music Gaming Science
+0.3 0.6 0.4 0.5 0.7 0.2
+
+Output:
+Food                0.0957057
+Travel              0.240153
+Tech                0.124124
+Music               0.156222
+Gaming              0.311462
+Science             0.0723328
+
+------------------------------
+
+Test Case 5
+Input:
+3 30 0.05
+Art Dance Fitness
+0.45 0.55 0.35
+
+Output:
+Art                 0.358506
+Dance               0.368502
+Fitness             0.272993
+
+------------------------------
